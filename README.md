@@ -15,6 +15,9 @@ A personalized audio-ML study using 92,445 Spotify play events and 10-second son
 ### [Bayesian Modeling of Football Attendance](https://github.com/pedrohgp02/modeling-sports-attendance)
 Hierarchical Bayesian modeling of Argentine football attendance using PyMC, Negative Binomial models, posterior predictive checks, and PSIS-LOO model comparison.
 
+### [Constraint-Aware Task Scheduler](https://github.com/pedrohgp02/constraint-aware-task-scheduler)
+A Python scheduling engine with a custom max-heap, task dependencies, fixed-time and bounded-window constraints, conflict detection, automated tests, and benchmark analysis through 1,000 tasks.
+
 ### [Decoding Relationships Between Genes](https://github.com/pedrohgp02/genealogy-dp-project)
 An algorithms project comparing greedy and global dynamic-programming approaches for reconstructing genealogical relationships from DNA sequences using Longest Common Subsequence similarity.
 
