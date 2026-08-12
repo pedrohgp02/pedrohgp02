@@ -9,6 +9,9 @@ An end-to-end public-health data product using official Brazilian surveillance d
 
 **[Live dashboard](https://dengue-surveillance.streamlit.app/)**
 
+### [Predicting Spotify Skips from Song Intros](https://github.com/pedrohgp02/spotify-skip-prediction)
+A personalized audio-ML study using 92,445 Spotify play events and 10-second song previews to compare handcrafted features, CNNs, Audio Spectrogram Transformers, listening context, and multimodal fusion. The key result: listening context explained substantially more skip behavior than audio alone.
+
 ### [Bayesian Modeling of Football Attendance](https://github.com/pedrohgp02/modeling-sports-attendance)
 Hierarchical Bayesian modeling of Argentine football attendance using PyMC, Negative Binomial models, posterior predictive checks, and PSIS-LOO model comparison.
 
